@@ -204,7 +204,7 @@ img{
      display: block;
      background:#eee;
      height:fit-content;
-     width:15rem;
+     width:12rem;
 }
 .navigation ul li:hover ul.drop_menu li{
     display: block;
@@ -298,7 +298,7 @@ hr{
     width:50px;
     height:30px;
     border-radius: 50%;
-    animation: spin 1s infinite linear;
+    animation: spin 1.5s infinite linear;
   }
   @keyframes spin{
     100%{
@@ -346,7 +346,7 @@ hr{
         width:100%;
         text-align: left;
         display: grid;
-        grid-template-columns: 100px 350px;
+        grid-template-columns: 100px 300px;
         grid-auto-rows: minmax(70px,auto);
         background:#eee;
     }
