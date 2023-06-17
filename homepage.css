@@ -328,7 +328,7 @@ hr{
          display: block;
          background:#eee;
          height:fit-content;
-         width:13rem;
+         width:15rem;
     }
     .navigation{
         background: #20c997;
@@ -347,7 +347,7 @@ hr{
         text-align: left;
         display: grid;
         grid-template-columns: 100px 360px;
-        grid-auto-rows: minmax(75px,auto);
+        grid-auto-rows: minmax(72px,auto);
         background:#eee;
     }
     #announce_box{
