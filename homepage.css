@@ -257,7 +257,7 @@ hr{
 }
   
   #words{
-    animation: wordChange 2s infinite;
+    animation: wordChange 4s infinite;
   }
 .nav{
     margin-bottom:2rem;
